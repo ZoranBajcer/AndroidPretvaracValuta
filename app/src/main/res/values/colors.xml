@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#53545e</color>
+    <color name="colorPrimaryDark">#42434d</color>
+    <color name="colorAccent">#4d4e5c</color>
+
+    <color name="textColor">#f5f3f3</color>
+    <color name="mojBoj">#1c6c1b</color>
+
+    <color name="backgroundColor">#3838dc</color>
+    <color name="spinnerColor">#807c99</color>
+
+    <color name="layoutBack">#a8a8ab</color>
+</resources>
